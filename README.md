@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project for The Odin Project Foundations. I built a multi-page recipe website to practice foundational html skills, such as: creating relative links to link local files together and manipulating images in the web page. I also learnt to manage my code history with git and github
